@@ -17,11 +17,11 @@ This tutorial guides you through setting up and using Proton VPN to measure diff
 
 ## High-Level Steps
 
-1. Create a Virtual Machine in Microsoft Azure.
-2. Log into the virtual machine using Remote Desktop Connection.
-3. Use whatsmyipaddress.com to grab your VM IP address.
-4. Download Proton VPN, then connect to any VPN.
-5. Use whatsmyipaddress.com to grab your new Proton VPN IP address.
+Creating Azure Virtual Machine
+Using Remote Desktop
+Observing IP address
+Downloading and installing VPN (Proton Free)
+Cleaning Microsoft Azure Account
 
 ## Actions and Observations
 
